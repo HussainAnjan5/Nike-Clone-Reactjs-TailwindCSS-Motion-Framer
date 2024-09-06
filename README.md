@@ -17,7 +17,7 @@ Check out the live demo of the project here.
 - **Dynamic Content**: Built with React.js to render dynamic content and components.
   
 ## Screenshot
-<img width="1438" alt="ss" src="../my-project/screenshots/nike 2.png">
+<img width="1438" alt="ss" src="./screenshots/nike 2.png">
 
 1. **Clone the Repository**:
 
