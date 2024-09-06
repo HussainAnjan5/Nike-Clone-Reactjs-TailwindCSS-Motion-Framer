@@ -9,8 +9,8 @@ This project is a clone of the Nike Shoes website, built using **React.js**, **T
 - **Framer Motion**: A powerful animation library for React to create smooth transitions and animations.
   
 ## 🎨 Features and Live Demo
-https://hussain-nike-clone.vercel.app/
-Check out the live demo of the project here.
+
+🌐 https://hussain-nike-clone.vercel.app/
 
 - **Responsive Design**: The website is fully responsive, ensuring an optimal viewing experience across devices of all sizes.
 - **Smooth Animations**: Using Framer Motion, the website has been enhanced with smooth, engaging animations and transitions.
